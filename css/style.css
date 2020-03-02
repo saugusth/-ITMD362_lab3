@@ -5,7 +5,7 @@ body {
 label {
   display: block;
   margin-top: 15px;
-  background-color: #44f725;
+  background-color: #636B78;
   background-size: 300px 100px;
   font-size: 1.3em;
 }
@@ -28,7 +28,7 @@ h1 {
 
 @media (min-width: 480px) {
   body {
-    background-color: lightgreen;
+    background-color: #636B78;
   }
 
   label {
