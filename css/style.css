@@ -14,11 +14,11 @@ input {
   display: block;
   margin-top: 10px;
   margin-bottom: 10px;
-
 }
 
 h1 {
   font-size: 40px;
+  color:#22262B;
 }
 
 .width {
@@ -29,7 +29,9 @@ h1 {
   body {
     background-color: #626D7D;
   }
-
+  h1{
+    color:#22262B;
+  }
   label {
     display: block;
     background: none;
