@@ -15,7 +15,7 @@ input {
   display: block;
   margin-top: 10px;
   margin-bottom: 10px;
-  color:#454E5B;
+  color: #454E5B;
 }
 
 #color2 {
@@ -45,11 +45,12 @@ h1 {
     display: block;
     background: none;
     margin-top: 15px;
+    background-color: #626D7D;
   }
 
   input {
     margin-top: 0;
-    color:#454E5B;
+    color: #454E5B;
   }
 
   #color2 {
