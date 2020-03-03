@@ -6,9 +6,7 @@ label {
   display: block;
   margin-top: 15px;
   background-color: #626D7D;
-  background-size: 300px 100px;
   font-size: 1.3em;
-  color: #22262B;
 }
 
 input {
@@ -19,7 +17,8 @@ input {
 }
 
 #color2 {
-  color: #626D7D;
+  background-color: #626D7D;
+  color:#22262B;
 }
 
 h1 {
@@ -46,7 +45,6 @@ h1 {
     background: none;
     margin-top: 15px;
     background-color: #626D7D;
-    color: #22262B;
   }
 
   input {
@@ -55,7 +53,8 @@ h1 {
   }
 
   #color2 {
-    color: #626D7D;
+    background-color: #626D7D;
+    color:#22262B;
   }
 
   .width {
